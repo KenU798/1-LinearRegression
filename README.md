@@ -1,2 +1,2 @@
 # LinearRegression
-Jupyter Notebook on Linear Regression - the first algorithm of AI
+Jupyter Notebook for Linear Regression - the first algorithm of AI
